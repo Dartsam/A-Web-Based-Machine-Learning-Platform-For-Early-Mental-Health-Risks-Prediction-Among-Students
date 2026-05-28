@@ -1,0 +1,10 @@
+node_modules/
+__pycache__/
+*.pyc
+.env
+*.pkl
+venv/
+.DS_Store
+dist/
+.vite/
+frontend/.env
